@@ -1,0 +1,11 @@
+C:\Users\sivas\OneDrive\Masaüstü\GoruntuIslemeProje\GoruntuIslemeProje\bin\Debug\GoruntuIslemeProje.exe.config
+C:\Users\sivas\OneDrive\Masaüstü\GoruntuIslemeProje\GoruntuIslemeProje\bin\Debug\GoruntuIslemeProje.exe
+C:\Users\sivas\OneDrive\Masaüstü\GoruntuIslemeProje\GoruntuIslemeProje\bin\Debug\GoruntuIslemeProje.pdb
+C:\Users\sivas\OneDrive\Masaüstü\GoruntuIslemeProje\GoruntuIslemeProje\obj\Debug\GoruntuIslemeProje.csproj.AssemblyReference.cache
+C:\Users\sivas\OneDrive\Masaüstü\GoruntuIslemeProje\GoruntuIslemeProje\obj\Debug\GoruntuIslemeProje.csproj.SuggestedBindingRedirects.cache
+C:\Users\sivas\OneDrive\Masaüstü\GoruntuIslemeProje\GoruntuIslemeProje\obj\Debug\GoruntuIslemeProje.Form1.resources
+C:\Users\sivas\OneDrive\Masaüstü\GoruntuIslemeProje\GoruntuIslemeProje\obj\Debug\GoruntuIslemeProje.Properties.Resources.resources
+C:\Users\sivas\OneDrive\Masaüstü\GoruntuIslemeProje\GoruntuIslemeProje\obj\Debug\GoruntuIslemeProje.csproj.GenerateResource.cache
+C:\Users\sivas\OneDrive\Masaüstü\GoruntuIslemeProje\GoruntuIslemeProje\obj\Debug\GoruntuIslemeProje.csproj.CoreCompileInputs.cache
+C:\Users\sivas\OneDrive\Masaüstü\GoruntuIslemeProje\GoruntuIslemeProje\obj\Debug\GoruntuIslemeProje.exe
+C:\Users\sivas\OneDrive\Masaüstü\GoruntuIslemeProje\GoruntuIslemeProje\obj\Debug\GoruntuIslemeProje.pdb
